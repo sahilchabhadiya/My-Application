@@ -14,7 +14,7 @@ The Mahindra Application provides a smooth and interactive UI, allowing users to
 
 You can download and try the latest version of the app from the link below:
 
-👉 [Download Mahindra App (Debug APK)](https://www.mediafire.com/file/371lelhays6d3sr/app-debug.apk/file)
+👉 [Download Mahindra App (Debug APK)](https://www.mediafire.com/file/5ogzp31ux0x2dhh/app-release.apk/file)
 
 > ⚠️ **Note:** Please enable "Install from Unknown Sources" in your Android phone settings to install this APK.
 
